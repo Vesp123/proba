@@ -1,7 +1,1 @@
 # proba
-
-wow
-
-asdf
-
-dodatkowo
